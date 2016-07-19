@@ -30,6 +30,28 @@ Some other highlights:
 
 > I write Nordstrom a note: Hold on, hold on, it says.
 
+> Don’t piss them off, don’t act like you’re the freaking upshot.
+
+> But we find ourselves in a heartbeat.
+
+> About hate being the nasty dark crayon and love being the nasty dark
+> crayon and love being the youngest.
+
+> Today Janet swore at my workplace.
+
+##How to use it
+
+Find a source text that you would like to use and save it as a UTF-8 encoded text file.
+
+Then, in terminal:
+
+    $ python parser.py <path/to/input/file>
+
+For example:
+
+    $ python parser.py static/saunders.txt    
+
+
 ##License
 
 markov-text-generator is licensed under the MIT License. See LICENSE for more information.
