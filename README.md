@@ -17,6 +17,19 @@ The following was generated with this program using George Saunder's Pastoralia 
 > started swearing.” “Like you ever worked.” “Like jewelry making wasn’t
 > work,” he says.
 
+And... so was this:
+
+> From now on, no more talk of defecation flaring up, please, only let’s
+> remember that what we did.
+
+Some other highlights:
+
+> I pound a rock against a tree and start my paperwork.
+
+> I kneel while pretending to catch and eat small bugs.
+
+> I write Nordstrom a note: Hold on, hold on, it says.
+
 ##License
 
 markov-text-generator is licensed under the MIT License. See LICENSE for more information.
