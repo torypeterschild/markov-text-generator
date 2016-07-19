@@ -72,7 +72,7 @@ def main():
     s = build_sentence(d)
     print(s)
     if s in content.decode('utf-8'):
-        print("This sentence is just a copy of one in the corpus")
+        print("\nBummer! This sentence is just a copy of one in the corpus.")
 
 
 if __name__ == "__main__":
