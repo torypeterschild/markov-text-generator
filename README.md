@@ -9,14 +9,13 @@ This is a Python implementation of a [Markov Text Generator](https://en.wikipedi
 
 Markov Text Generators generate original, superficially real-looking sentences based on a given source text. Each word is selected based on how often it follows the previous word, and the results are chained together to form a sentence.
 
-Using a Markov Text Generator with The Wonderful Wizard of Oz as the source text might result in the following:
+The following was generated with this program using George Saunder's Pastoralia as source text:
 
-> Dorothy lived in the doorway and looked upon her right foot and said: "Oz has sent for
-> you." So the Wizard in the basket. "Good-bye!" "Good-bye!" shouted everyone, and all eyes
-> were turned upward to where the Great Oz." "Oh, indeed!" exclaimed the man. "He has more
-> brains than he needs." "And I am something terrible." "But, I don't care who kills her. But
-> until she is melted," explained the Scarecrow. He had been cut. "There," said he; "now you
-> have earned the brains you will oil the joints of my legs, I shall know everything."
+> Around two there is no goat, just killed, sits in our shoes, you always
+> said good, good fishing, son, and when you say it, I’m already deep into
+> the cave was real and all, and you even come into my workplace and
+> started swearing.” “Like you ever worked.” “Like jewelry making wasn’t
+> work,” he says.
 
 ##License
 
